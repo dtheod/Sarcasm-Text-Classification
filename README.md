@@ -1,5 +1,5 @@
-# Sarcasm-Text-Classification
-Using HuggingFace to classify sarcasm from Reddit reviews and so some manual testing on Chandlers sarcasm jokes :).
+# FakeNews-Classification
+Using Tensorflow to classify Fake News articles :).
 
-![Image of Yaktocat](https://miro.medium.com/max/1838/1*OmMebjqaf2hjGwhSZrtCSg.jpeg)
+![Image of Yaktocat](https://edsurge.imgix.net/uploads/post/image/12950/shutterstock_1048634249-1577047999.jpg?auto=compress%2Cformat&fit=crop&h=486&w=1200)
 
